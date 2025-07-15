@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Giovanni Sousa
 
-**`Analista e Desenvolvedor de Sistemas`**
+**`Analista de Dados`**
 
 Sou um jovem de 19 anos, com boa capacidade de comunicação e relacionamento interpessoal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas com o objetivo de ingressar na área de TI. Tenho grande interesse em aprender e me desenvolver profissionalmente, buscando sempre novas oportunidades para aplicar meus conhecimentos e contribuir com soluções inovadoras no setor de tecnologia.
 
