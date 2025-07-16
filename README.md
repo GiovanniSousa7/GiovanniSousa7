@@ -2,7 +2,8 @@
 
 **`Analista de Dados`**
 
-Sou um jovem de 19 anos, com boa capacidade de comunicação e relacionamento interpessoal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas com o objetivo de ingressar na área de TI. Tenho grande interesse em aprender e me desenvolver profissionalmente, buscando sempre novas oportunidades para aplicar meus conhecimentos e contribuir com soluções inovadoras no setor de tecnologia.
+Sou um estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senai, com foco em análise de dados. Possuo conhecimento em Python (Pandas, NumPy), SQL (consultas, JOINs, filtros), Power BI e Excel Avançado.
+Sou apaixonado por transformar dados em decisões. Me destaco pela comunicação clara, organização e capacidade de aprender rápido. Estou em busca da primeira oportunidade como Analista de Dados Júnior ou cargo Júnior na área de tecnologia, onde posso aplicar minhas habilidades.
 
 
 ---
