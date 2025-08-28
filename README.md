@@ -3,8 +3,7 @@
 **`Analista de Dados`**
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senai, com foco em análise de dados. Possuo conhecimento em Python (Pandas, NumPy), SQL (consultas, JOINs, filtros), Power BI e Excel Avançado.
-Sou apaixonado por transformar dados em decisões. Me destaco pela comunicação clara, organização e capacidade de aprender rápido. Estou em busca da primeira oportunidade como Analista de Dados Júnior ou cargo Júnior na área de tecnologia, onde posso aplicar minhas habilidades.
-
+Sou apaixonado por transformar dados em decisões. 
 
 ---
 
